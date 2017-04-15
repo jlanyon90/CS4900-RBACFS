@@ -1,0 +1,4 @@
+hashmap
+=======
+
+A generic hashmap.
